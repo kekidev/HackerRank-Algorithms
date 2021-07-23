@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/keki/dev/untitled/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/main.dir/main.cpp.o -c /Users/keki/dev/untitled/main.cpp",
+  "file": "/Users/keki/dev/untitled/main.cpp"
+},
+{
+  "directory": "/Users/keki/dev/untitled/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/main.dir/static.cpp.o -c /Users/keki/dev/untitled/static.cpp",
+  "file": "/Users/keki/dev/untitled/static.cpp"
+}
+]
